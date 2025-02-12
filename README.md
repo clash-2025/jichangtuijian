@@ -36,7 +36,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 
 [福云机场官网地址1](https://fuuu.cloud)  
 
->开业时间：2024  
+>开业时间：2023  
 老板肉身：墙外  
 入口与过境线路：广东
 协议：vmess  
