@@ -42,7 +42,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 过境：IEPL内网           
 协议：vmess         
 UDP： 支持            
-ChatGPT解锁: 基本全支持        
+ChatGPT解锁：基本全支持        
 SSH端口屏蔽：屏蔽22端口         
 邮件传统协议smtp/pop3/imap：未禁止         
 节点国家与地区：日本、美国、越南         
