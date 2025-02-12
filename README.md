@@ -39,7 +39,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 >开业时间：2023  
 老板肉身：墙外  
 入口与过境线路：入口广东。过境IEPL+隧道公网中转
->
+
 节点数目： 35+，后端负载均衡，多种落地      
 协议：Shadowsocks
 UDP：支持    
