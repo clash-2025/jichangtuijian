@@ -36,27 +36,28 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 
 [福云机场官网地址1](https://fuuu.cloud)  
 
->开业时间：2023  
-老板肉身：墙外  
+>开业时间：2023    
+老板肉身：墙外      
 入口与过境线路：入口广东。过境IEPL+隧道公网中转
 节点数目： 35+，后端负载均衡，多种落地      
-协议：Shadowsocks
-UDP：支持    
-限制同时登录ip客户端数目：软性限制5个ip    
-ChatGPT/OpenAI解锁: 基本全解锁    
-墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
-SSH端口屏蔽：22端口已屏蔽    
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
-地区：美国，日本，越南      
-落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
-ipv6支持情况：美国部分节点支持    
-付款方式：微信    
-TG频道：无    
-套餐是否包含手续费：否（手续费6-9%）    
-只能中国内地使用：是，新疆无法使用
-家宽：无    
-面板:sspanel，节点订阅在首页仪表盘【一键订阅】按钮中    
-客服：有           
+协议：Shadowsocks      
+UDP：支持      
+限制同时登录ip客户端数目：软性限制5个ip   
+ChatGPT/OpenAI解锁: 基本全解锁         
+墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
+SSH端口屏蔽：22端口已屏蔽      
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
+地区：澳洲、香港、台湾、新加坡、日本、美国、英国、印度、马来西亚、阿根廷、土耳其      
+落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、英国家宽、香港HGC、台湾家宽Hinet、日本软银   
+付款方式：支付宝、微信 
+TG频道：有；无群  
+客服：有   
+套餐是否包含手续费：否（手续费6-9%）  
+国外能否使用：否，且新疆无法使用
+此机场适合推荐人群： 稳定且无特殊需求
+小白一键客户端: 有，ios+windows+Mac+安卓
+家宽：英国，日本原生    
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；订阅在首页             
     
 **套餐(所有套餐节点一样):**
 
