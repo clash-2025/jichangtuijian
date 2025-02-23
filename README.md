@@ -32,7 +32,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 
 ## 一、福云(12元/月50G) 
 
-小众精品机场，相对低调。人不多，速度稳定都还可以，主是要目前有7折优惠，折后8元50g，性价比很高。优惠码：fuuu.cloud
+小众精品机场，相对低调。人不多，速度稳定都还可以，主是要目前有7折优惠，折后8元50g，性价比较高。优惠码：fuuu.cloud
 
 [福云机场官网地址](https://fuuu.cloud)  
 
